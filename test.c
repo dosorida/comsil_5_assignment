@@ -17,11 +17,9 @@ struct prof {
 }prof;
 
 union person {
-	struct student a;
-	struct prof b;
+	struct student c;
+	struct prof d;
 }per;
-
-struct student class[10];
 
 enum season {Spring, Summer, Fall, Winter} s;
 
