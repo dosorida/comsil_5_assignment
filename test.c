@@ -31,8 +31,8 @@ void main(void) {
 	std.age = j;
 	i = &std.age;
 
-	struct student Tom = { "Tom", 24, 178.8, 'A' };
-	per.a = Tom;
+	struct student Dosol = { "Dosol", 24, 178.8, 'A' };
+	per.a = Dosol;
 
 	printf("Hello.\n My name is Dosol.\n");
 
