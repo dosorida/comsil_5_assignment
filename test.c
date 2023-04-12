@@ -7,12 +7,12 @@ int arr[10][10][10];
 struct student {
 	char name[20];
 	int age;
+	float height;
 	char grade;
 }std;
 
 struct prof {
 	char name[20];
-	int age;
 	char tel[20];
 }prof;
 
